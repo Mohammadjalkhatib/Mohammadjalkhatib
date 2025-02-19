@@ -18,9 +18,6 @@ I'm an engineering graduate with a Master's in Artificial Intelligence and Robot
 - **Automated Chessboard System:**  
   Developed a fully automated chess-playing system integrating computer vision (YOLOv8), the Stockfish chess engine, and a Quanser QArm robotic manipulator.
 
-- **Social Media Image Classification:**  
-  Built a high-accuracy model using transfer learning to identify inappropriate content on social media.
-
 - **Reinforcement Learning for Robotics:**  
   Trained a reinforcement learning model to control robotic movements, showcasing practical AI applications in real-world robotics.
 
